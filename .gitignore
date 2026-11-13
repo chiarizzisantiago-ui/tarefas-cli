@@ -1,0 +1,16 @@
+# Dependencias
+node_modules/
+
+# Build
+dist/
+*.tsbuildinfo
+
+# Cobertura e cache
+coverage/
+.vitest/
+
+# Ambiente
+.env
+
+# Dados locais do app
+.tarefas/
